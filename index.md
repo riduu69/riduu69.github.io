@@ -14,8 +14,8 @@ layout: default
 শেয়ার করা হবে।
 
 ## 🔗 Official Links
-- Facebook
-- YouTube
-- Telegram
+- [Facebook](https://facebook.com/)
+- [YouTube](https://youtube.com/)
+- [Telegram](https://t.me/)
 
 © 2026 Hridoy Official
