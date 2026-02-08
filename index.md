@@ -1,6 +1,6 @@
 ---
 ---
-title: Hridoy Official | Bangla Personal News & Updates
+Hridoy Official | Bangla Personal News & Updates
 ---
 
 # Hridoy Official
