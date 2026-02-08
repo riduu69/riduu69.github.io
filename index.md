@@ -1,4 +1,12 @@
 ---
+layout: home
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  teaser: https://picsum.photos/1200/600
+title: Hridoy Official
+------
 ---
 Hridoy Official | Bangla Personal News & Updates
 ---
