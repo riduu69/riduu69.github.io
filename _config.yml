@@ -1,0 +1,11 @@
+title: Hridoy Official
+description: Bangla Personal News & Updates
+theme: minima
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: News
+    url: /news
