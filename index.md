@@ -1,21 +1,23 @@
 ---
-title: Hridoy Official
-layout: default
+---
+title: Hridoy Official | Bangla Personal News & Updates
 ---
 
 # Hridoy Official
 
-স্বাগতম আমার অফিসিয়াল ওয়েবসাইটে।
+বাংলা ভাষায় আমার অফিসিয়াল ওয়েবসাইট।  
+এখানে আপনি পাবেন—
 
-এখানে নিয়মিত  
 - ব্যক্তিগত আপডেট  
 - গুরুত্বপূর্ণ খবর  
-- অফিসিয়াল লিংক  
-শেয়ার করা হবে।
+- অফিসিয়াল ঘোষণা  
+- সোশ্যাল মিডিয়া লিংক
+
+🔔 নিয়মিত আপডেটের জন্য সাইটটি বুকমার্ক করুন।
 
 ## 🔗 Official Links
-- [Facebook](https://facebook.com/)
+- [Facebook](https://facebook.com/riduu699)
 - [YouTube](https://youtube.com/)
-- [Telegram](https://t.me/)
+- [Telegram](https://t.me/ridyyt)
 
 © 2026 Hridoy Official
